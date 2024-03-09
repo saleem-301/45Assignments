@@ -1,13 +1,3 @@
-//QUESTION 1:
-
-//Installed Node.js, Typescript and Visual Studio Codde.
-
-
-//QUESTION 2:
-let name1 = "sir zia khan";
-console.log (name1);
-    
-
 //QUESTION 3:
 function titlecase (name1)
 { 
@@ -353,7 +343,7 @@ if (alien_color == 'green'){
 }
 else{
     console.log('Try again')
-    
+}
 //Question 26:  
 alien_color = 'yellow';
 if (alien_color == 'green'){
@@ -450,7 +440,7 @@ for (let i of userName)
 
 
 //Question 31
-:
+
 let userName = ['kamran','saleem','admin','mehmood' ];
 
 console.log(userName.length);
